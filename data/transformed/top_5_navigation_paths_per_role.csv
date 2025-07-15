@@ -1,0 +1,363 @@
+Role,Navigation_Path,Count
+ABC & TCI OSSA,Sales vs Plan -> Sales vs Plan -> Sales vs Plan Dashboard -> Sales vs Plan -> Sales vs Plan -> Sales vs Plan Dashboard -> Sales vs Plan -> Sales vs Plan -> Sales vs Plan Dashboard,32865
+ABC & TCI OSSA,Sales vs Plan -> Sales vs Plan -> Sales vs Plan Dashboard -> Sales vs Plan -> Sales vs Plan -> Sales vs Plan Dashboard -> Salesperson Performance -> Salesperson GP Rank -> Salesperson GP Rank,10549
+ABC & TCI OSSA,Salesperson Performance -> Salesperson GP Rank -> Salesperson GP Rank -> Sales vs Plan -> Sales vs Plan -> Sales vs Plan Dashboard -> Sales vs Plan -> Sales vs Plan -> Sales vs Plan Dashboard,10380
+ABC & TCI OSSA,Sales vs Plan -> Sales vs Plan -> Sales vs Plan Dashboard -> Salesperson Performance -> Salesperson GP Rank -> Salesperson GP Rank -> Sales vs Plan -> Sales vs Plan -> Sales vs Plan Dashboard,9464
+ABC & TCI OSSA,Sales vs Plan -> Sales vs Plan -> Sales vs Plan Dashboard -> Sales vs Plan -> Sales vs Plan -> Sales vs Plan Monthly Overview -> Sales vs Plan -> Sales vs Plan -> Sales vs Plan Dashboard,5793
+ACM Director,Daily Sales -> Daily Sales -> Tabular -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Tabular,11
+ACM Director,Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Tabular -> Daily Sales -> Daily Sales -> Daily Sales,10
+ACM Director,Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Tabular -> Daily Sales -> Daily Sales -> Month End Sales,3
+ACM Director,Daily Sales -> Daily Sales -> Month End Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Tabular,3
+ACM Director,Daily Sales -> Daily Sales -> Tabular -> Daily Sales -> Daily Sales -> Month End Sales -> Daily Sales -> Daily Sales -> Top Sales Periods,2
+ADMIN,Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales,41
+ADMIN,Dataset Testing -> Customer 360 Light - Agility Refactor -> Customer Summary -> Dataset Testing -> Customer 360 Light - Agility Refactor -> Main Account Detail -> Dataset Testing -> Customer 360 Light - Agility Refactor -> Customer Summary,10
+ADMIN,Dataset Testing -> Customer 360 Light - Agility Refactor -> Purchasing Account Detail -> Dataset Testing -> Customer 360 Light - Agility Refactor -> Customer Summary -> Dataset Testing -> Customer 360 Light - Agility Refactor -> Purchasing Account Detail,10
+ADMIN,Dataset Testing -> Customer 360 Light - Agility Refactor -> Main Account Detail -> Dataset Testing -> Customer 360 Light - Agility Refactor -> Customer Summary -> Dataset Testing -> Customer 360 Light - Agility Refactor -> Main Account Detail,9
+ADMIN,Dataset Testing -> Audit Branch Risk DEV -> Branch Risk Metrics Summary -> Dataset Testing -> Audit Branch Risk DEV -> Branch Risk Metrics Summary -> Dataset Testing -> Audit Branch Risk DEV -> Branch Risk Metrics Summary,8
+Accounting NetNet,Inventory Levels -> Inventory Levels -> Inventory Levels -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Tabular,1
+Accounting NetNet,Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Tabular -> Daily Sales -> Daily Sales -> Month End Sales,1
+Accounting NetNet,Daily Sales -> Daily Sales -> Tabular -> Daily Sales -> Daily Sales -> Month End Sales -> Daily Sales -> Daily Sales -> Daily Sales,1
+Accounting NetNet,Daily Sales -> Daily Sales -> Month End Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales,1
+Agility Operations Specialist,Branch Operations -> Branch Summary -> Summary Dashboard -> Branch Operations -> EXP Dashboard -> EXP Order Summary -> Branch Operations -> Branch Summary -> Summary Dashboard,2
+Agility Operations Specialist,Branch Operations -> EXP Dashboard -> EXP Order Summary -> Branch Operations -> Branch Summary -> Summary Dashboard -> Branch Operations -> EXP Dashboard -> EXP Order Summary,2
+Agility Operations Specialist,Branch Operations -> EXP Dashboard -> EXP Order Summary -> Branch Operations -> EXP Dashboard -> EXP Order Summary -> Branch Operations -> EXP Dashboard -> EXP Order Summary,2
+Agility Operations Specialist,Sales vs Plan -> Sales vs Plan -> Sales vs Plan Dashboard -> Daily Sales -> Daily Sales -> Tabular -> Daily Sales -> Daily Sales -> Top Sales Periods,1
+Agility Operations Specialist,Daily Sales -> Daily Sales -> Tabular -> Daily Sales -> Daily Sales -> Top Sales Periods -> Daily Sales -> Daily Sales -> Month End Sales,1
+Always Add,Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Units -> Daily Units Summary -> Daily Sales -> Daily Sales -> Daily Sales,15
+Always Add,Daily Sales -> Daily Units -> Daily Units Summary -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Units -> Daily Units Summary,14
+Always Add,Daily Sales -> Daily Units -> Daily Units Summary -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Tabular,12
+Always Add,Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Month End Sales,12
+Always Add,Daily Sales -> Daily Units -> Daily Units Summary -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales,11
+Answers Self-Service,Daily Sales -> Daily Sales -> Tabular -> Daily Sales -> Daily Sales -> Tabular -> Daily Sales -> Daily Sales -> Tabular,7
+Answers Self-Service,Daily Sales -> Daily Sales -> Tabular -> Daily Sales -> Daily Sales -> Month End Sales -> Daily Sales -> Daily Sales -> Tabular,2
+Answers Self-Service,Daily Sales -> Daily Sales -> Month End Sales -> Daily Sales -> Daily Sales -> Tabular -> Daily Sales -> Daily Sales -> Tabular,2
+Answers Self-Service,Daily Sales -> Daily Sales -> Tabular -> Daily Sales -> Daily Sales -> Tabular -> Daily Sales -> Daily Sales -> Month End Sales,1
+Audit,Branch Risk -> Audit Branch Risk Dashboard -> Branch Risk Summary -> Branch Risk -> Audit Branch Risk Dashboard -> Branch Risk Summary -> Branch Risk -> Audit Branch Risk Dashboard -> Branch Risk Summary,32
+Audit,Branch Risk -> Audit Branch Risk Dashboard -> Branch Risk Summary -> Branch Risk -> Audit Branch Risk Dashboard -> Branch Risk Summary -> Branch Risk -> Audit Branch Risk Dashboard -> Cash Category,9
+Audit,903 Auditing - Ad Hoc -> Updated Loss Prevention Fuel Data -> Sheet 1 -> 903 Auditing - Ad Hoc -> Updated Loss Prevention Fuel Data -> Sheet 1 -> 903 Auditing - Ad Hoc -> Updated Loss Prevention Fuel Data -> Sheet 1,8
+Audit,Branch Risk -> Audit Branch Risk Dashboard -> Inventory Category -> Branch Risk -> Audit Branch Risk Dashboard -> Branch Risk Summary -> Branch Risk -> Audit Branch Risk Dashboard -> Branch Risk Summary,7
+Audit,Branch Risk -> Audit Branch Risk Dashboard -> Branch Risk Summary -> Branch Risk -> Audit Branch Risk Dashboard -> Cash Category -> Branch Risk -> Audit Branch Risk Dashboard -> Branch Risk Summary,7
+Branch Mgr,Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales,4454
+Branch Mgr,Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Tabular -> Daily Sales -> Daily Sales -> Daily Sales,3315
+Branch Mgr,Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Tabular,3174
+Branch Mgr,Daily Sales -> Daily Sales -> Tabular -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales,2682
+Branch Mgr,Daily Sales -> Daily Sales -> Tabular -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Tabular,1868
+CBC Branch Manager,Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales,40
+CBC Branch Manager,Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Salesperson Performance -> Salesperson GP Rank -> Salesperson GP Rank,4
+CBC Branch Manager,Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Tabular,3
+CBC Branch Manager,Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Tabular -> Daily Sales -> Daily Sales -> Month End Sales,3
+CBC Branch Manager,Daily Sales -> Daily Sales -> Daily Sales -> Salesperson Performance -> Salesperson GP Rank -> Salesperson GP Rank -> Daily Sales -> Daily Sales -> Daily Sales,3
+CBC District Manager,General -> Branch Locations -> Map -> Productivity -> Associate Productivity -> Summary -> Salesperson Performance -> Salesperson GP Rank -> Salesperson GP Rank,1
+CBC District Manager,Productivity -> Associate Productivity -> Summary -> Salesperson Performance -> Salesperson GP Rank -> Salesperson GP Rank -> Daily Sales -> Daily Sales -> Daily Sales,1
+CBC District Manager,Salesperson Performance -> Salesperson GP Rank -> Salesperson GP Rank -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Units -> Units Tabular,1
+CBC District Manager,Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Units -> Units Tabular -> Daily Sales -> Daily Sales -> Daily Sales,1
+CBC District Manager,Daily Sales -> Daily Units -> Units Tabular -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales,1
+CBC OSSA,Salesperson Performance -> Salesperson GP Rank -> Salesperson GP Rank -> Salesperson Performance -> Salesperson GP Rank -> Salesperson GP Rank -> Salesperson Performance -> Salesperson GP Rank -> Salesperson GP Rank,90
+CBC OSSA,Salesperson Performance -> Salesperson GP Rank -> Salesperson GP Rank -> Salesperson Performance -> Salesperson GP Rank -> Salesperson GP Rank -> General -> Branch Locations -> Map,8
+CBC OSSA,Salesperson Performance -> Salesperson GP Rank -> Salesperson GP Rank -> General -> Branch Locations -> Map -> Salesperson Performance -> Salesperson GP Rank -> Salesperson GP Rank,6
+CBC OSSA,General -> Branch Locations -> Map -> Salesperson Performance -> Salesperson GP Rank -> Salesperson GP Rank -> Salesperson Performance -> Salesperson GP Rank -> Salesperson GP Rank,6
+CBC OSSA,Salesperson Performance -> Salesperson GP Rank -> Salesperson GP Rank -> General -> Branch Locations -> Map -> General -> Branch Locations -> Tabular,3
+CBC Regional,Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales,1
+CBC Regional,Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Tabular,1
+CBC Regional,Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Tabular -> Daily Sales -> Daily Sales -> Month End Sales,1
+CBC Regional,Daily Sales -> Daily Sales -> Tabular -> Daily Sales -> Daily Sales -> Month End Sales -> Daily Sales -> Daily Sales -> Top Sales Periods,1
+CBC Regional,Daily Sales -> Daily Sales -> Month End Sales -> Daily Sales -> Daily Sales -> Top Sales Periods -> Daily Sales -> Daily Units -> Daily Units Summary,1
+CBC Regional Ops,Productivity -> Associate Productivity -> Summary -> Productivity -> Associate Productivity -> Sales/Hour -> Productivity -> Associate Productivity -> Overtime %,1
+CBC Regional Ops,Productivity -> Associate Productivity -> Sales/Hour -> Productivity -> Associate Productivity -> Overtime % -> Daily Sales -> Daily Units -> Daily Units Summary,1
+CBC Regional Ops,Productivity -> Associate Productivity -> Overtime % -> Daily Sales -> Daily Units -> Daily Units Summary -> General -> Branch Locations -> Map,1
+CBC Regional Ops,Daily Sales -> Daily Units -> Daily Units Summary -> General -> Branch Locations -> Map -> Productivity -> Associate Productivity -> Summary,1
+CBC Regional Ops,General -> Branch Locations -> Map -> Productivity -> Associate Productivity -> Summary -> Payroll Productivity -> Payroll Productivity -> Summary,1
+CFS Department,Daily Sales -> Daily Sales -> Month End Sales -> Daily Sales -> Daily Sales -> Month End Sales -> Daily Sales -> Daily Sales -> Month End Sales,5
+CFS Department,Daily Sales -> Daily Sales -> Month End Sales -> Daily Sales -> Daily Sales -> Tabular -> Daily Sales -> Daily Sales -> Month End Sales,4
+CFS Department,Daily Sales -> Daily Sales -> Tabular -> Daily Sales -> Daily Sales -> Month End Sales -> Daily Sales -> Daily Sales -> Tabular,3
+CFS Department,CFS -> Payment Activity -> Payment Activity Dashboard -> CFS -> Customer Risk - Southwest -> Customer Risk -> Daily Sales -> Daily Sales -> Month End Sales,2
+CFS Department,Daily Sales -> Daily Sales -> Tabular -> Daily Sales -> Daily Sales -> Month End Sales -> Daily Sales -> Daily Sales -> Month End Sales,1
+CSDS Manager,Branch Operations -> EXP Dashboard -> EXP Order Summary -> Branch Operations -> EXP Dashboard -> EXP Order Detail -> Branch Operations -> EXP Dashboard -> EXP Order Summary,4
+CSDS Manager,Branch Operations -> EXP Dashboard -> EXP Order Summary -> Daily Sales -> Daily Sales -> Daily Sales -> Branch Operations -> EXP Dashboard -> EXP Order Summary,3
+CSDS Manager,Branch Operations -> EXP Dashboard -> EXP Order Summary -> Branch Operations -> EXP Dashboard -> EXP Order Summary -> Branch Operations -> EXP Dashboard -> EXP Order Detail,3
+CSDS Manager,Fleet eDelivery ODC -> Fleet eDelivery ODC - Enterprise -> eDelivery ODC Summary -> Fleet eDelivery ODC -> Fleet eDelivery ODC - Enterprise -> Order Detail Tabular -> Fleet eDelivery ODC -> Fleet eDelivery ODC - Enterprise -> Branch Compliance Breakdown  ,2
+CSDS Manager,Productivity -> Associate Productivity -> Summary -> Productivity -> Associate Productivity -> Summary -> Productivity -> Associate Productivity -> Summary,2
+Corporate Development,General -> Branch Locations -> Map -> General -> Branch Locations -> Map -> General -> Branch Locations -> Map,44
+Corporate Development,General -> Branch Locations -> Map -> General -> Branch Locations -> Map -> Daily Sales -> Daily Sales -> Daily Sales,15
+Corporate Development,General -> Branch Locations -> Map -> Daily Sales -> Daily Sales -> Daily Sales -> General -> Branch Locations -> Map,14
+Corporate Development,Daily Sales -> Daily Sales -> Daily Sales -> General -> Branch Locations -> Map -> General -> Branch Locations -> Map,14
+Corporate Development,Daily Sales -> Daily Sales -> Daily Sales -> General -> Branch Locations -> Map -> Daily Sales -> Daily Sales -> Daily Sales,4
+DSM,Inventory Management -> Inventory Finder -> Search By District -> Inventory Management -> Inventory Finder -> Search By District -> Inventory Management -> Inventory Finder -> Search By District,532
+DSM,Inventory Management -> Inventory Finder -> Search By District -> Inventory Management -> Inventory Finder -> Search by Distance -> Inventory Management -> Inventory Finder -> Search By District,125
+DSM,Inventory Management -> Inventory Finder -> Search by Distance -> Inventory Management -> Inventory Finder -> Search By District -> Inventory Management -> Inventory Finder -> Search By District,118
+DSM,Inventory Management -> Inventory Finder -> Search By District -> Inventory Management -> Inventory Finder -> Search By District -> Inventory Management -> Inventory Finder -> Search by Distance,113
+DSM,Inventory Management -> Inventory Finder -> Search By District -> Inventory Management -> Historical Inventory -> Historical Inventory -> Inventory Management -> Inventory Finder -> Search By District,71
+Digital Product Owner,Digital -> Digital Customer -> Digital Customer -> Digital -> Digital Customer -> Digital Customer Details  -> Digital -> Digital Customer -> Digital Customer,2
+Digital Product Owner,Digital -> Digital Customer -> Digital Customer Details  -> Digital -> Digital Customer -> Digital Customer -> Digital -> Digital Customer -> Digital Customer Details ,1
+Digital Product Owner,Digital -> Digital Customer -> Digital Customer Details  -> Digital -> Digital Customer -> Digital Customer -> Digital -> Digital Customer -> Digital Customer,1
+Digital Product Owner,Digital -> Digital Customer -> Digital Customer -> Digital -> Digital Customer -> Digital Customer -> Digital -> Digital Share -> Digital Share Summary,1
+Dir. Natl Accounts,Branch Manager Customer 360 -> Branch Manager Customer 360 Dashboard -> Customer Selection -> Branch Manager Customer 360 -> Branch Manager Customer 360 Dashboard -> Main Account Detail -> Branch Manager Customer 360 -> Branch Manager Customer 360 Dashboard -> Customer Selection,4
+Dir. Natl Accounts,Branch Manager Customer 360 -> Branch Manager Customer 360 Dashboard -> Customer Selection -> Branch Manager Customer 360 -> Branch Manager Customer 360 Dashboard -> Customer Selection -> Branch Manager Customer 360 -> Branch Manager Customer 360 Dashboard -> Main Account Detail,3
+Dir. Natl Accounts,Branch Manager Customer 360 -> Branch Manager Customer 360 Dashboard -> Main Account Detail -> Branch Manager Customer 360 -> Branch Manager Customer 360 Dashboard -> Customer Selection -> Branch Manager Customer 360 -> Branch Manager Customer 360 Dashboard -> Customer Selection,3
+Dir. Natl Accounts,Branch Manager Customer 360 -> Branch Manager Customer 360 Dashboard -> Customer Selection -> Branch Manager Customer 360 -> Branch Manager Customer 360 Dashboard -> Customer Selection -> Branch Manager Customer 360 -> Branch Manager Customer 360 Dashboard -> Customer Selection,2
+Dir. Natl Accounts,Branch Manager Customer 360 -> Branch Manager Customer 360 Dashboard -> Main Account Detail -> Branch Manager Customer 360 -> Branch Manager Customer 360 Dashboard -> Customer Selection -> Branch Manager Customer 360 -> Branch Manager Customer 360 Dashboard -> Main Account Detail,1
+Dist Mgr,Daily Sales -> Daily Sales -> Tabular -> Daily Sales -> Daily Sales -> Tabular -> Daily Sales -> Daily Sales -> Tabular,472
+Dist Mgr,Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Tabular -> Daily Sales -> Daily Sales -> Tabular,236
+Dist Mgr,Daily Sales -> Daily Sales -> Tabular -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Tabular,219
+Dist Mgr,Daily Sales -> Daily Sales -> Tabular -> Daily Sales -> Daily Sales -> Tabular -> Daily Sales -> Daily Sales -> Daily Sales,170
+Dist Mgr,Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Tabular -> Daily Sales -> Daily Sales -> Daily Sales,100
+Driver & Safety Compliance,Fleet CSA -> Fleet CSA - Enterprise -> CSA Summary -> Fleet CSA -> Fleet CSA - Enterprise -> CSA Summary -> Fleet CSA -> Fleet CSA - Enterprise -> CSA Summary,52
+Driver & Safety Compliance,Fleet CSA -> Fleet CSA - Enterprise -> CSA Summary -> Safety and Compliance -> Driver Vehicle Inspection Report -> DVIR Compliance -> Fleet CSA -> Fleet CSA - Enterprise -> CSA Summary,10
+Driver & Safety Compliance,Safety and Compliance -> Driver Vehicle Inspection Report -> DVIR Compliance -> Fleet CSA -> Fleet CSA - Enterprise -> CSA Summary -> Fleet CSA -> Fleet CSA - Enterprise -> CSA Summary,9
+Driver & Safety Compliance,Fleet CSA -> Fleet CSA - Enterprise -> CSA Summary -> Safety and Compliance -> HOS Violations -> HOS Violations Dashboard -> Safety and Compliance -> Driver Vehicle Inspection Report -> DVIR Compliance,8
+Driver & Safety Compliance,Fleet CSA -> Fleet CSA - Enterprise -> CSA Summary -> Fleet CSA -> Fleet CSA - Enterprise -> CSA Summary -> Safety and Compliance -> Driver Vehicle Inspection Report -> DVIR Compliance,8
+EA 944,Customer 360 Dashboard Light Dashboard -> Customer 360 Light -> Customer Summary -> Customer 360 Dashboard Light Dashboard -> Customer 360 Light -> Customer Summary -> Customer 360 Dashboard Light Dashboard -> Customer 360 Light -> Customer Summary,30
+EA 944,Branch Manager Customer 360 -> Branch Manager Customer 360 Dashboard -> Customer Summary -> Branch Manager Customer 360 -> Branch Manager Customer 360 Dashboard -> Customer Summary -> Branch Manager Customer 360 -> Branch Manager Customer 360 Dashboard -> Customer Summary,28
+EA 944,Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales,27
+EA 944,Customer 360 Simple Search -> Customer 360 Simple Search Dashboard -> Customer Summary -> Customer 360 Simple Search -> Customer 360 Simple Search Dashboard -> Customer Summary -> Customer 360 Simple Search -> Customer 360 Simple Search Dashboard -> Customer Summary,22
+EA 944,Dataset Testing -> Customer 360 Legacy - Agility Refactor -> Customer Summary -> Dataset Testing -> Customer 360 Legacy - Agility Refactor -> Customer Summary -> Dataset Testing -> Customer 360 Legacy - Agility Refactor -> Customer Summary,21
+EA QA,Dataset Testing -> Customer 360 Legacy - Agility Refactor -> Customer Summary -> Dataset Testing -> Customer 360 Legacy - Agility Refactor -> Customer Summary -> Dataset Testing -> Customer 360 Legacy - Agility Refactor -> Customer Summary,37
+EA QA,Dataset Testing -> Windows and Doors dev 11 5 2024 -> Windows and Doors -> Dataset Testing -> Windows and Doors dev 11 5 2024 -> Windows and Doors -> Dataset Testing -> Windows and Doors dev 11 5 2024 -> Windows and Doors,23
+EA QA,Dataset Testing -> Digital Share DEV -> Historical Periods -> Dataset Testing -> Digital Share DEV -> Digital Share Summary -> Dataset Testing -> Digital Share DEV -> Historical Periods,18
+EA QA,Dataset Testing -> Digital Customer DEV -> Digital Customer Details  -> Dataset Testing -> Digital Customer DEV -> Digital Customer -> Dataset Testing -> Digital Customer DEV -> Digital Customer Details ,17
+EA QA,Dataset Testing -> Digital Share DEV -> Digital Share Summary -> Dataset Testing -> Digital Share DEV -> Historical Periods -> Dataset Testing -> Digital Share DEV -> Digital Share Summary,16
+File Manager,Fleet eDelivery ODC -> Fleet eDelivery ODC - Enterprise -> Branch Compliance Breakdown   -> Fleet eDelivery ODC -> Fleet eDelivery ODC - Enterprise -> Branch Compliance Breakdown   -> Fleet eDelivery ODC -> Fleet eDelivery ODC - Enterprise -> Branch Compliance Breakdown  ,116
+File Manager,Productivity -> Associate Productivity -> Summary -> Productivity -> Associate Productivity -> Summary -> Productivity -> Associate Productivity -> Summary,73
+File Manager,General -> Branch Locations -> Map -> General -> Branch Locations -> Map -> General -> Branch Locations -> Map,8
+File Manager,Branch Manager Customer 360 -> Branch Manager Customer 360 Dashboard -> Customer Summary -> Branch Manager Customer 360 -> Branch Manager Customer 360 Dashboard -> Customer Summary -> Branch Manager Customer 360 -> Branch Manager Customer 360 Dashboard -> Customer Summary,8
+File Manager,Branch Operations -> EXP Dashboard -> EXP Order Summary -> Branch Operations -> EXP Dashboard -> EXP Order Summary -> Branch Operations -> EXP Dashboard -> EXP Order Summary,7
+Finance,Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales,3
+Finance,Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Sales vs Plan -> Sales vs Plan -> Sales vs Plan Dashboard,1
+Finance,Daily Sales -> Daily Sales -> Daily Sales -> Sales vs Plan -> Sales vs Plan -> Sales vs Plan Dashboard -> Usage and Supply -> Usage and Supply Dashboard -> Usage and Supply Dashboard,1
+Finance,Sales vs Plan -> Sales vs Plan -> Sales vs Plan Dashboard -> Usage and Supply -> Usage and Supply Dashboard -> Usage and Supply Dashboard -> General Executive -> Customer Age Mix -> Region Mix Dashboard,1
+Finance,Usage and Supply -> Usage and Supply Dashboard -> Usage and Supply Dashboard -> General Executive -> Customer Age Mix -> Region Mix Dashboard -> Branch Operations -> Branch Summary -> Summary Dashboard,1
+Fleet & Logistics,Fleet CSA -> Fleet CSA - Enterprise -> CSA Summary -> Fleet CSA -> Fleet CSA - Enterprise -> CSA Summary -> Fleet CSA -> Fleet CSA - Enterprise -> CSA Summary,13
+Fleet & Logistics,Fleet Optimization -> Fleet Performance Tool -> Fleet Opt Location Summary -> Fleet Optimization -> Fleet Performance Tool -> Fleet Opt Location Summary -> Fleet Optimization -> Fleet Performance Tool -> Fleet Opt Location Summary,7
+Fleet & Logistics,Fleet Optimization -> Fleet Performance Tool -> Fleet Opt Forecast View -> Fleet Optimization -> Fleet Performance Tool -> Fleet Opt Location Summary -> Fleet Optimization -> Fleet Performance Tool -> Fleet Opt Location Summary,3
+Fleet & Logistics,Fleet Optimization -> Fleet Performance Tool -> Fleet Opt Location Summary -> Fleet Optimization -> Fleet Performance Tool -> Fleet Opt Location Summary -> Fleet CSA -> Fleet CSA - Enterprise -> CSA Summary,3
+Fleet & Logistics,Fleet CSA -> Fleet CSA - Enterprise -> CSA Summary -> Fleet CSA -> Fleet CSA - Enterprise -> CSA National Violations -> Fleet CSA -> Fleet CSA - Enterprise -> CSA Summary,2
+Fleet Compliance,Fleet CSA -> Fleet CSA - Enterprise -> CSA Summary -> Fleet CSA -> Fleet CSA - Enterprise -> CSA National BASIC -> Fleet CSA -> Fleet CSA - Enterprise -> CSA National Violations,2
+Fleet Compliance,Fleet eDelivery ODC -> Fleet eDelivery ODC - Enterprise -> eDelivery ODC Summary -> Safety and Compliance -> Camera Coaching Event -> Camera Coaching Event -> Safety and Compliance -> HOS Violations -> HOS Violations Dashboard,1
+Fleet Compliance,Safety and Compliance -> Camera Coaching Event -> Camera Coaching Event -> Safety and Compliance -> HOS Violations -> HOS Violations Dashboard -> Safety and Compliance -> Driver Controlled Violation -> Violations Event,1
+Fleet Compliance,Safety and Compliance -> HOS Violations -> HOS Violations Dashboard -> Safety and Compliance -> Driver Controlled Violation -> Violations Event -> Safety and Compliance -> Driver Vehicle Inspection Report -> DVIR Compliance,1
+Fleet Compliance,Safety and Compliance -> Driver Controlled Violation -> Violations Event -> Safety and Compliance -> Driver Vehicle Inspection Report -> DVIR Compliance -> Fleet CSA -> Fleet CSA - Enterprise -> CSA Summary,1
+Fleet Procurement,Dataset Testing -> Associate Productivity_DEV -> Summary -> Dataset Testing -> Associate Productivity_DEV -> Summary -> Dataset Testing -> Associate Productivity_DEV -> Summary,35
+Fleet Procurement,Customer 360 Dashboard Light Dashboard -> Customer 360 Light -> Customer Summary -> Customer 360 Dashboard Light Dashboard -> Customer 360 Light -> Customer Summary -> Customer 360 Dashboard Light Dashboard -> Customer 360 Light -> Customer Summary,29
+Fleet Procurement,Dataset Testing -> Associate Productivity_DEV -> Summary -> Dataset Testing -> Associate Productivity_DEV -> Active Net Headcount -> Dataset Testing -> Associate Productivity_DEV -> Summary,24
+Fleet Procurement,Dataset Testing -> Associate Productivity_DEV -> Active Net Headcount -> Dataset Testing -> Associate Productivity_DEV -> Summary -> Dataset Testing -> Associate Productivity_DEV -> Active Net Headcount,24
+Fleet Procurement,Dataset Testing -> Associate Productivity_DEV -> Active Net Headcount -> Dataset Testing -> Associate Productivity_DEV -> Summary -> Dataset Testing -> Associate Productivity_DEV -> Summary,17
+General Accounting Manager,Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Tabular -> Daily Sales -> Daily Sales -> Daily Sales,56
+General Accounting Manager,Daily Sales -> Daily Sales -> Tabular -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Tabular,56
+General Accounting Manager,Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Tabular -> Daily Sales -> Daily Sales -> Tabular,8
+General Accounting Manager,Daily Sales -> Daily Sales -> Tabular -> Daily Sales -> Daily Sales -> Tabular -> Daily Sales -> Daily Sales -> Daily Sales,8
+General Accounting Manager,Daily Sales -> Daily Sales -> Tabular -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales,8
+Inside Sales,Inventory Management -> Inventory Finder -> Search By District -> Inventory Management -> Inventory Finder -> Search By District -> Inventory Management -> Inventory Finder -> Search By District,2445
+Inside Sales,Inventory Management -> Inventory Finder -> Search By District -> Inventory Management -> Inventory Finder -> Search by Distance -> Inventory Management -> Inventory Finder -> Search By District,834
+Inside Sales,Inventory Management -> Inventory Finder -> Search By District -> Inventory Management -> Inventory Finder -> Search By District -> Inventory Management -> Inventory Finder -> Search by Distance,717
+Inside Sales,Inventory Management -> Inventory Finder -> Search by Distance -> Inventory Management -> Inventory Finder -> Search By District -> Inventory Management -> Inventory Finder -> Search By District,705
+Inside Sales,Inventory Management -> Inventory Finder -> Search By District -> Inventory Management -> Inventory Finder -> Search By District -> Inventory Management -> Inventory Finder Shortage Surplus -> Summary,226
+Inven/Purch Admin,Inventory Management -> Inventory Finder -> Search By District -> Inventory Management -> Inventory Finder -> Search By District -> Inventory Management -> Inventory Finder -> Search By District,122
+Inven/Purch Admin,Inventory Levels -> Inventory Levels -> Inventory Levels -> Inventory Levels -> Inventory Levels -> Branch Inventory Details -> Inventory Levels -> Inventory Levels -> Inventory Levels,38
+Inven/Purch Admin,Inventory Management -> Inventory Finder -> Search By District -> Inventory Management -> Inventory Finder -> Search By District -> Inventory Levels -> Inventory Levels -> Inventory Levels,37
+Inven/Purch Admin,Inventory Management -> Inventory Finder -> Search By District -> Inventory Levels -> Inventory Levels -> Inventory Levels -> Inventory Levels -> Inventory Levels -> Branch Inventory Details,37
+Inven/Purch Admin,Inventory Levels -> Inventory Levels -> Inventory Levels -> Inventory Levels -> Inventory Levels -> Branch Inventory Details -> Inventory Management -> Inventory Finder -> Search By District,34
+L&W BM,Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales,920
+L&W BM,Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Tabular,188
+L&W BM,Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Tabular -> Daily Sales -> Daily Sales -> Daily Sales,187
+L&W BM,Daily Sales -> Daily Sales -> Tabular -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales,151
+L&W BM,Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Units -> Daily Units Summary -> Daily Sales -> Daily Sales -> Daily Sales,97
+L&W DM,Fleet CSA -> Fleet CSA - Enterprise -> CSA Summary -> Fleet CSA -> Fleet CSA - Enterprise -> CSA Summary -> Fleet CSA -> Fleet CSA - Enterprise -> CSA Summary,9
+L&W DM,Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales,6
+L&W DM,Daily Sales -> Daily Units -> Daily Units Summary -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales,5
+L&W DM,Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Branch Operations -> Branch Summary -> Summary Dashboard,5
+L&W DM,Safety and Compliance -> Driver Vehicle Inspection Report -> DVIR Compliance -> Safety and Compliance -> Driver Vehicle Inspection Report -> DVIR Compliance Tabular -> Productivity -> Associate Productivity -> Summary,4
+L&W Dir Merchandising,Daily Sales -> Daily Units -> Daily Units Summary -> Daily Sales -> Daily Units -> Month to Date Units Comparison -> Daily Sales -> Daily Units -> Daily Units Summary,6
+L&W Dir Merchandising,Daily Sales -> Daily Units -> Month to Date Units Comparison -> Daily Sales -> Daily Units -> Daily Units Summary -> Daily Sales -> Daily Units -> Month to Date Units Comparison,4
+L&W Dir Merchandising,Daily Sales -> Daily Units -> Daily Units Summary -> Daily Sales -> Daily Units -> Units Tabular -> Daily Sales -> Daily Units -> Month to Date Units Comparison,2
+L&W Dir Merchandising,Daily Sales -> Daily Units -> Units Tabular -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Tabular,2
+L&W Dir Merchandising,Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Tabular -> Daily Sales -> Daily Sales -> Month End Sales,2
+L&W Fleet/Ops,Fleet eDelivery ODC -> Fleet eDelivery ODC - Enterprise -> eDelivery ODC Summary -> Fleet eDelivery ODC -> Fleet eDelivery ODC - Enterprise -> Order Detail Tabular -> Fleet eDelivery ODC -> Fleet eDelivery ODC - Enterprise -> Branch Compliance Breakdown  ,27
+L&W Fleet/Ops,Fleet eDelivery ODC -> Fleet eDelivery ODC - Enterprise -> Order Detail Tabular -> Fleet eDelivery ODC -> Fleet eDelivery ODC - Enterprise -> Branch Compliance Breakdown   -> Fleet eDelivery ODC -> Fleet eDelivery ODC - Enterprise -> Order Detail Tabular,23
+L&W Fleet/Ops,Fleet eDelivery ODC -> Fleet eDelivery ODC - Enterprise -> Branch Compliance Breakdown   -> Fleet eDelivery ODC -> Fleet eDelivery ODC - Enterprise -> Order Detail Tabular -> Fleet eDelivery ODC -> Fleet eDelivery ODC - Enterprise -> Branch Compliance Breakdown  ,19
+L&W Fleet/Ops,Fleet CSA -> Fleet CSA - Enterprise -> CSA Summary -> Fleet CSA -> Fleet CSA - Enterprise -> CSA Summary -> Fleet CSA -> Fleet CSA - Enterprise -> CSA Summary,16
+L&W Fleet/Ops,Fleet eDelivery ODC -> Fleet eDelivery ODC - Enterprise -> eDelivery ODC Summary -> Fleet eDelivery ODC -> Fleet eDelivery ODC - Enterprise -> Branch Compliance Breakdown   -> Fleet eDelivery ODC -> Fleet eDelivery ODC - Enterprise -> eDelivery ODC Summary,15
+L&W OSSA,Digital -> Digital Customer -> Digital Customer -> Digital -> Digital Customer -> Digital Customer -> Digital -> Digital Customer -> Digital Customer,10
+L&W OSSA,Digital -> Digital Customer -> Digital Customer -> Digital -> Digital Customer -> Digital Customer Details  -> Digital -> Digital Customer -> Digital Customer,5
+L&W OSSA,Digital -> Digital Customer -> Digital Customer -> Digital -> Digital Customer -> Digital Customer -> Digital -> Digital Customer -> Digital Customer Details ,4
+L&W OSSA,Digital -> Digital Customer -> Digital Customer Details  -> Digital -> Digital Customer -> Digital Customer -> Digital -> Digital Customer -> Digital Customer,4
+L&W OSSA,Digital -> Digital Customer -> Digital Customer Details  -> Digital -> Digital Customer -> Digital Customer -> Digital -> Digital Customer -> Digital Customer Details ,1
+L&W Ops Excellence Specialist,Daily Sales -> Daily Sales -> Daily Sales -> Demand Forecasts -> Sales Forecast -> Forecasting -> Demand Forecasts -> Sales Forecast -> Forecasting,1
+L&W Ops Excellence Specialist,Demand Forecasts -> Sales Forecast -> Forecasting -> Demand Forecasts -> Sales Forecast -> Forecasting -> Demand Forecasts -> Sales Forecast -> Forecasting,1
+L&W Ops Excellence Specialist,Demand Forecasts -> Sales Forecast -> Forecasting -> Demand Forecasts -> Sales Forecast -> Forecasting -> Demand Forecasts -> Sales Forecast -> Tabular,1
+L&W Ops Excellence Specialist,Demand Forecasts -> Sales Forecast -> Forecasting -> Demand Forecasts -> Sales Forecast -> Tabular -> Demand Forecasts -> Sales Forecast -> Forecasting,1
+L&W Ops Excellence Specialist,Demand Forecasts -> Sales Forecast -> Tabular -> Demand Forecasts -> Sales Forecast -> Forecasting -> Daily Sales -> Daily Units -> Daily Units Summary,1
+L&W RVP & Controller,Digital -> Digital Customer -> Digital Customer -> Digital -> Digital Customer -> Digital Customer Details  -> Digital -> Digital Customer -> Digital Customer,3
+L&W RVP & Controller,Payroll Productivity -> Payroll Productivity -> Summary -> Payroll Productivity -> Payroll Productivity -> Wages % Sales -> Payroll Productivity -> Payroll Productivity -> Wages / Invoice,3
+L&W RVP & Controller,Payroll Productivity -> Payroll Productivity -> Summary -> Payroll Productivity -> Payroll Productivity -> Summary -> Payroll Productivity -> Payroll Productivity -> Wages % Sales,3
+L&W RVP & Controller,Payroll Productivity -> Payroll Productivity -> Summary -> Payroll Productivity -> Payroll Productivity -> Wages % Sales -> Payroll Productivity -> Payroll Productivity -> Summary,2
+L&W RVP & Controller,Payroll Productivity -> Payroll Productivity -> Wages % Sales -> Payroll Productivity -> Payroll Productivity -> Summary -> Productivity -> Associate Productivity -> Summary,2
+L&W Sales & Merchandising,Daily Deliveries -> Daily Deliveries -> Daily Deliveries Dashboard -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Deliveries -> Daily Deliveries -> Daily Deliveries Tabular,1
+L&W Sales & Merchandising,Daily Sales -> Daily Sales -> Daily Sales -> Daily Deliveries -> Daily Deliveries -> Daily Deliveries Tabular -> Daily Sales -> Daily Units -> Daily Units Summary,1
+L&W Sales & Merchandising,Daily Deliveries -> Daily Deliveries -> Daily Deliveries Tabular -> Daily Sales -> Daily Units -> Daily Units Summary -> Daily Sales -> Daily Units -> Daily Units Summary,1
+L&W Sales & Merchandising,Daily Sales -> Daily Units -> Daily Units Summary -> Daily Sales -> Daily Units -> Daily Units Summary -> Daily Sales -> Daily Sales -> Daily Sales,1
+L&W Sales & Merchandising,Daily Sales -> Daily Units -> Daily Units Summary -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Units -> Daily Units Summary,1
+LW Business Dev Manager,General -> Branch Locations -> Map -> Daily Sales -> Branch Delivery Map -> Branch Delivery Map  -> Daily Sales -> Branch Delivery Map -> Branch Delivery Map ,1
+LW Business Dev Manager,Daily Sales -> Branch Delivery Map -> Branch Delivery Map  -> Daily Sales -> Branch Delivery Map -> Branch Delivery Map  -> Daily Sales -> Branch Delivery Map -> Branch Delivery Map ,1
+LW Business Dev Manager,Daily Sales -> Branch Delivery Map -> Branch Delivery Map  -> Daily Sales -> Branch Delivery Map -> Branch Delivery Map  -> Daily Sales -> Daily Units -> Daily Units Summary,1
+LW Business Dev Manager,Daily Sales -> Branch Delivery Map -> Branch Delivery Map  -> Daily Sales -> Daily Units -> Daily Units Summary -> Daily Sales -> Daily Units -> Month to Date Units Comparison,1
+LW Business Dev Manager,Daily Sales -> Daily Units -> Daily Units Summary -> Daily Sales -> Daily Units -> Month to Date Units Comparison -> Daily Sales -> Daily Units -> Units Tabular,1
+Marketing/Merch Analyst,Demand Forecasts -> Sales Forecast -> Forecasting -> Market Share -> Market Share Dashboard -> Market Share Detail -> Safety and Compliance -> Camera Coaching Event -> Camera Coaching Event Tabular,1
+Marketing/Merch Analyst,Market Share -> Market Share Dashboard -> Market Share Detail -> Safety and Compliance -> Camera Coaching Event -> Camera Coaching Event Tabular -> Safety and Compliance -> Camera Coaching Event -> Camera Coaching Violations Comparison,1
+Marketing/Merch Analyst,Safety and Compliance -> Camera Coaching Event -> Camera Coaching Event Tabular -> Safety and Compliance -> Camera Coaching Event -> Camera Coaching Violations Comparison -> Net Net Average Recovery -> Net Net Average Recovery -> Net Net Average Recovery,1
+Marketing/Merch Analyst,Safety and Compliance -> Camera Coaching Event -> Camera Coaching Violations Comparison -> Net Net Average Recovery -> Net Net Average Recovery -> Net Net Average Recovery -> Inventory Levels -> Inventory Levels -> Inventory Levels,1
+Min/Max PIlot,Dataset Testing -> Inventory Levels DEV -> Summary -> Dataset Testing -> Inventory Levels DEV -> Summary -> Dataset Testing -> Inventory Levels DEV -> Summary,18
+Min/Max PIlot,Inventory Levels -> Inventory Levels -> Inventory Levels -> Inventory Levels -> Inventory Levels -> Inventory Levels -> Inventory Levels -> Inventory Levels -> Inventory Levels,14
+Min/Max PIlot,Fleet Optimization -> Fleet Performance Tool -> Fleet Opt Location Summary -> Fleet Optimization -> Fleet Performance Tool -> Fleet Opt Location Summary -> Fleet Optimization -> Fleet Performance Tool -> Fleet Opt Location Summary,11
+Min/Max PIlot,Inventory Levels -> Inventory Levels -> Inventory Levels -> Inventory Levels -> Inventory Levels -> Inventory Levels -> Inventory Management -> Inventory Metrics -> Inventory Performance,10
+Min/Max PIlot,Inventory Management -> Inventory Metrics -> Inventory Performance -> Inventory Management -> Inventory Metrics -> Inventory Performance -> Inventory Levels -> Inventory Levels -> Inventory Levels,9
+MuleHide Mgt 1,890 Norandex - Ad Hoc -> 2021 YoY Sales of NDX Items -> YoY MTD Sales by Vendor -> M01 Mule-Hide - Ad Hoc -> Sales Recon Data Enterprise Dataset -> CY YTD -> M01 Mule-Hide - Ad Hoc -> Sales Recon Data Enterprise Dataset -> CY YTD,1
+MuleHide Mgt 1,M01 Mule-Hide - Ad Hoc -> Sales Recon Data Enterprise Dataset -> CY YTD -> M01 Mule-Hide - Ad Hoc -> Sales Recon Data Enterprise Dataset -> CY YTD -> Daily Sales -> Daily Sales -> Daily Sales,1
+MuleHide Mgt 1,M01 Mule-Hide - Ad Hoc -> Sales Recon Data Enterprise Dataset -> CY YTD -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Month End Sales,1
+MuleHide Mgt 1,Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Month End Sales -> General -> Branch Locations - Dynamic Sizing -> Tabular,1
+MuleHide Mgt 1,Daily Sales -> Daily Sales -> Month End Sales -> General -> Branch Locations - Dynamic Sizing -> Tabular -> General -> Branch Locations - Dynamic Sizing -> Map,1
+NDX,Inventory Management -> Inventory Finder -> Search By District -> Inventory Management -> Inventory Finder -> Search By District -> Inventory Management -> Inventory Finder -> Search By District,21
+NDX,Inventory Management -> Inventory Finder -> Search By District -> Inventory Management -> Inventory Finder -> Search By District -> Inventory Management -> Inventory Finder Shortage Surplus -> Summary,1
+NDX,Inventory Management -> Inventory Finder -> Search By District -> Inventory Management -> Inventory Finder Shortage Surplus -> Summary -> Inventory Management -> Inventory Finder -> Search By District,1
+NDX,Inventory Management -> Inventory Finder Shortage Surplus -> Summary -> Inventory Management -> Inventory Finder -> Search By District -> Inventory Management -> Inventory Finder -> Search By District,1
+NSC Ed Dir,Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales,15
+NSC Ed Dir,Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Branch Operations -> Branch Summary -> Summary Dashboard,2
+NSC Ed Dir,Daily Sales -> Daily Sales -> Daily Sales -> Branch Operations -> Branch Summary -> Summary Dashboard -> Branch Operations -> Branch Summary -> Summary Dashboard,2
+NSC Ed Dir,Branch Operations -> Branch Summary -> Summary Dashboard -> Branch Operations -> Branch Summary -> Summary Dashboard -> Branch Operations -> Branch Summary -> Summary Dashboard,1
+NSC Ed Dir,Branch Operations -> Branch Summary -> Summary Dashboard -> Branch Operations -> Branch Summary -> Summary Dashboard -> General -> Branch Locations -> Map,1
+NSC Merchandising,Windows and Doors -> Windows and Doors -> Windows and Doors -> Windows and Doors -> Windows and Doors -> Windows and Doors -> Windows and Doors -> Windows and Doors -> Windows and Doors,18
+NSC Merchandising,Windows and Doors -> Windows and Doors -> Windows and Doors -> Windows and Doors -> Windows and Doors -> Windows and Doors -> Daily Sales -> Daily Units -> Daily Units Summary,5
+NSC Merchandising,Net Net Average Recovery -> Net Net Average Recovery -> Net Net Average Recovery -> Windows and Doors -> Windows and Doors -> Windows and Doors -> Windows and Doors -> Windows and Doors -> Windows and Doors,4
+NSC Merchandising,Daily Sales -> Daily Units -> Daily Units Summary -> Daily Sales -> Daily Units -> Daily Units Summary -> Windows and Doors -> Windows and Doors -> Windows and Doors,4
+NSC Merchandising,Windows and Doors -> Windows and Doors -> Windows and Doors -> Daily Sales -> Daily Units -> Daily Units Summary -> Daily Sales -> Daily Units -> Daily Units Summary,4
+National Accounts Exec,Branch Manager Customer 360 -> Branch Manager Customer 360 Dashboard -> Customer Selection -> Branch Manager Customer 360 -> Branch Manager Customer 360 Dashboard -> Customer Selection -> Branch Manager Customer 360 -> Branch Manager Customer 360 Dashboard -> Customer Selection,35
+National Accounts Exec,Branch Manager Customer 360 -> Branch Manager Customer 360 Dashboard -> Customer Selection -> Branch Manager Customer 360 -> Branch Manager Customer 360 Dashboard -> Customer Selection -> Branch Manager Customer 360 -> Branch Manager Customer 360 Dashboard -> External Customer Sales Report,1
+National Accounts Exec,Branch Manager Customer 360 -> Branch Manager Customer 360 Dashboard -> Customer Selection -> Branch Manager Customer 360 -> Branch Manager Customer 360 Dashboard -> External Customer Sales Report -> Branch Manager Customer 360 -> Branch Manager Customer 360 Dashboard -> Customer Selection,1
+National Accounts Exec,Branch Manager Customer 360 -> Branch Manager Customer 360 Dashboard -> External Customer Sales Report -> Branch Manager Customer 360 -> Branch Manager Customer 360 Dashboard -> Customer Selection -> General -> Branch Locations -> Map,1
+National Accounts Exec,Branch Manager Customer 360 -> Branch Manager Customer 360 Dashboard -> Customer Selection -> General -> Branch Locations -> Map -> Branch Manager Customer 360 -> Branch Manager Customer 360 Dashboard -> Customer Summary,1
+National Accounts Support,Inventory Management -> Inventory Finder -> Search By District -> Inventory Management -> Inventory Finder -> Search By District -> Inventory Management -> Inventory Finder -> Search By District,74
+National Accounts Support,Inventory Management -> Inventory Finder -> Search By District -> Inventory Management -> Inventory Finder -> Search By District -> General -> Branch Locations -> Map,2
+National Accounts Support,Inventory Management -> Inventory Finder -> Search By District -> General -> Branch Locations -> Map -> General -> Branch Locations -> Map,2
+National Accounts Support,General -> Branch Locations -> Map -> Inventory Management -> Inventory Finder -> Search By District -> Inventory Management -> Inventory Finder -> Search By District,2
+National Accounts Support,General -> Branch Locations -> Map -> General -> Branch Locations -> Map -> Inventory Management -> Inventory Finder -> Search By District,1
+Net Net Cost Estimator,Daily Sales -> Daily Units -> Daily Units Summary -> Daily Sales -> Daily Units -> Month to Date Units Comparison -> Daily Sales -> Daily Units -> Daily Units Summary,4
+Net Net Cost Estimator,Daily Sales -> Daily Units -> Daily Units Summary -> Daily Sales -> Daily Units -> Daily Units Summary -> Daily Sales -> Daily Units -> Month to Date Units Comparison,3
+Net Net Cost Estimator,Net Net Average Recovery -> Net Net Average Recovery -> Net Net Average Recovery -> Daily Sales -> Daily Units -> Daily Units Summary -> Daily Sales -> Daily Units -> Daily Units Summary,2
+Net Net Cost Estimator,Daily Sales -> Daily Sales -> Daily Sales -> Net Net Average Recovery -> Net Net Average Recovery -> Net Net Average Recovery -> Daily Sales -> Daily Units -> Daily Units Summary,2
+Net Net Cost Estimator,Inventory Levels -> Inventory Levels -> Inventory Levels -> Inventory Management -> Inventory Metrics -> Inventory Performance -> Inventory Management -> Inventory Metrics -> Inventory Performance,2
+Ntl Accounts Analyst,Branch Manager Customer 360 -> Branch Manager Customer 360 Dashboard -> Customer Summary -> Inventory Management -> Inventory Finder Shortage Surplus -> Summary -> General -> Branch Locations -> Map,1
+Ntl Accounts Analyst,Inventory Management -> Inventory Finder Shortage Surplus -> Summary -> General -> Branch Locations -> Map -> Inventory Management -> Inventory Finder Shortage Surplus -> Summary,1
+NtlAccts,Branch Manager Customer 360 -> Branch Manager Customer 360 Dashboard -> Customer Selection -> Branch Manager Customer 360 -> Branch Manager Customer 360 Dashboard -> Customer Selection -> Branch Manager Customer 360 -> Branch Manager Customer 360 Dashboard -> Customer Selection,5
+NtlAccts,Branch Manager Customer 360 -> Branch Manager Customer 360 Dashboard -> Purchasing Account Detail -> Branch Manager Customer 360 -> Branch Manager Customer 360 Dashboard -> Customer Selection -> Branch Manager Customer 360 -> Branch Manager Customer 360 Dashboard -> Customer Selection,2
+NtlAccts,Inventory Management -> Inventory Finder -> Search By District -> Inventory Management -> Inventory Finder -> Search By District -> Inventory Management -> Inventory Finder -> Search By District,2
+NtlAccts,General -> Branch Locations -> Map -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales,1
+NtlAccts,Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Units -> Daily Units Summary,1
+Operational Tech & Training,Branch Operations -> EXP Dashboard -> EXP Order Summary -> Branch Operations -> EXP Dashboard -> EXP Order Detail -> Branch Operations -> EXP Dashboard -> EXP Order Summary,6
+Operational Tech & Training,Digital -> Digital Share -> Digital Share Summary -> Digital -> Digital Share -> Digital Share Location -> Digital -> Digital Share -> Digital Share Detail,6
+Operational Tech & Training,Salesperson Performance -> Salesperson Current Book of Business -> Salesperson Book of Business -> Salesperson Performance -> Salesperson Current Book of Business -> House / Unassigned Book of Business -> Salesperson Performance -> Salesperson Current Book of Business -> Salesperson Book of Business,6
+Operational Tech & Training,Digital -> Digital Share -> Digital Share Detail -> Digital -> Digital Share -> Digital Share Summary -> Digital -> Digital Share -> Digital Share Location,5
+Operational Tech & Training,Fleet eDelivery ODC -> Fleet eDelivery ODC - Enterprise -> eDelivery ODC Summary -> Fleet eDelivery ODC -> Fleet eDelivery ODC - Enterprise -> eDelivery ODC Summary -> Fleet eDelivery ODC -> Fleet eDelivery ODC - Enterprise -> eDelivery ODC Summary,4
+Ops,Safety and Compliance -> HOS Violations -> HOS Violations Dashboard -> Safety and Compliance -> HOS Violations -> HOS Violations Comparison -> Safety and Compliance -> HOS Violations -> HOS Violations Dashboard,4
+Ops,Branch Operations -> Branch Summary -> Summary Dashboard -> Branch Operations -> Branch Summary -> Summary Dashboard -> Branch Operations -> Branch Summary -> Summary Dashboard,3
+Ops,Branch Operations -> Branch Summary -> Summary Dashboard -> Branch Operations -> Branch Summary -> Summary Dashboard -> Daily Sales -> Daily Sales -> Daily Sales,3
+Ops,Branch Operations -> Branch Summary -> Summary Dashboard -> Branch Operations -> Branch Summary -> Summary Dashboard -> Fleet CSA -> Fleet CSA - Enterprise -> CSA Summary,3
+Ops,Fleet CSA -> Fleet CSA - Enterprise -> CSA National BASIC -> Fleet CSA -> Fleet CSA - Enterprise -> CSA National BASIC -> Fleet CSA -> Fleet CSA - Enterprise -> CSA National BASIC,3
+Pricing,Pricing -> Pricing Reset -> Summary -> Pricing -> Pricing Reset -> Summary -> Pricing -> Pricing Reset -> Summary,13
+Pricing,Pricing -> Pricing Reset -> PZ Details -> Pricing -> Pricing Reset -> Summary -> Pricing -> Pricing Reset -> Summary,5
+Pricing,Pricing -> Pricing Reset -> Summary -> Pricing -> Pricing Reset -> PZ Details -> Pricing -> Pricing Reset -> Pricing Impact,4
+Pricing,Pricing -> Pricing Reset -> Override Details  -> Pricing -> Pricing Reset -> PZ Details -> Pricing -> Pricing Reset -> Summary,4
+Pricing,Pricing -> Pricing Reset -> Summary -> Pricing -> Pricing Reset -> Summary -> Pricing -> Pricing Reset -> PZ Details,4
+Regional Admin Assistant,Branch Operations -> EXP Dashboard -> EXP Order Summary -> Branch Operations -> EXP Dashboard -> EXP Order Detail -> Branch Operations -> EXP Dashboard -> EXP Quarterly,2
+Regional Admin Assistant,Salesperson Performance -> Salesperson Performance -> Salesperson Performance -> Salesperson Performance -> Salesperson Performance -> Salesperson Trend  -> Salesperson Performance -> Salesperson Performance -> Salesperson Performance,2
+Regional Admin Assistant,Salesperson Performance -> Salesperson Performance -> Salesperson Trend  -> Salesperson Performance -> Salesperson Performance -> Salesperson Performance -> Salesperson Performance -> Salesperson Performance -> Salesperson Trend ,2
+Regional Admin Assistant,Branch Manager Customer 360 -> Branch Manager Customer 360 Dashboard -> Customer Sales Report -> Branch Manager Customer 360 -> Branch Manager Customer 360 Dashboard -> Purchasing Account Detail -> Branch Manager Customer 360 -> Branch Manager Customer 360 Dashboard -> Customer Selection,2
+Regional Admin Assistant,723 Southwest Region - Ad Hoc -> Commodity Margins -> Commodity Margins -> 723 Southwest Region - Ad Hoc -> Commodity Margins -> Commodity Margins -> Productivity -> Associate Productivity -> Summary,1
+Regional Fleet Specialist,Fleet eDelivery ODC -> Fleet eDelivery ODC - Enterprise -> Branch Compliance Breakdown   -> Fleet eDelivery ODC -> Fleet eDelivery ODC - Enterprise -> Branch Compliance Breakdown   -> Fleet eDelivery ODC -> Fleet eDelivery ODC - Enterprise -> Branch Compliance Breakdown  ,24
+Regional Fleet Specialist,Fleet eDelivery ODC -> Fleet eDelivery ODC - Enterprise -> Order Detail Tabular -> Fleet eDelivery ODC -> Fleet eDelivery ODC - Enterprise -> eDelivery ODC Summary -> Fleet eDelivery ODC -> Fleet eDelivery ODC - Enterprise -> Order Detail Tabular,21
+Regional Fleet Specialist,Fleet eDelivery ODC -> Fleet eDelivery ODC - Enterprise -> eDelivery ODC Summary -> Fleet eDelivery ODC -> Fleet eDelivery ODC - Enterprise -> Order Detail Tabular -> Fleet eDelivery ODC -> Fleet eDelivery ODC - Enterprise -> eDelivery ODC Summary,20
+Regional Fleet Specialist,Fleet eDelivery ODC -> Fleet eDelivery ODC - Enterprise -> eDelivery ODC Summary -> Fleet eDelivery ODC -> Fleet eDelivery ODC - Enterprise -> Order Detail Tabular -> Fleet eDelivery ODC -> Fleet eDelivery ODC - Enterprise -> Branch Compliance Breakdown  ,20
+Regional Fleet Specialist,Fleet eDelivery ODC -> Fleet eDelivery ODC - Enterprise -> Order Detail Tabular -> Fleet eDelivery ODC -> Fleet eDelivery ODC - Enterprise -> Branch Compliance Breakdown   -> Fleet eDelivery ODC -> Fleet eDelivery ODC - Enterprise -> Order Detail Tabular,18
+Rgn BA,Branch Operations -> EXP Dashboard -> EXP Order Summary -> Branch Operations -> EXP Dashboard -> EXP Quarterly -> Branch Operations -> EXP Dashboard -> EXP Order Summary,4
+Rgn BA,Digital -> Digital Share -> Digital Share Summary -> Digital -> Digital Share -> Digital Share Summary -> Digital -> Digital Share -> Digital Share Summary,3
+Rgn BA,Salesperson Performance -> Salesperson Current Book of Business -> Salesperson Book of Business -> Salesperson Performance -> Salesperson Performance -> Salesperson Performance -> Salesperson Performance -> Salesperson Current Book of Business -> Salesperson Book of Business,2
+Rgn BA,Salesperson Performance -> Salesperson Performance -> Salesperson Performance -> Salesperson Performance -> Salesperson Current Book of Business -> Salesperson Book of Business -> Salesperson Performance -> Salesperson Current Book of Business -> Salesperson Book of Business,2
+Rgn BA,Daily Sales -> Daily Units -> Daily Units Summary -> Daily Sales -> Daily Units -> Month to Date Units Comparison -> Daily Sales -> Daily Units -> Daily Units Summary,2
+Rgn Bus Mgr,Windows and Doors -> Windows and Doors -> Windows and Doors -> Windows and Doors -> Windows and Doors -> Windows and Doors -> Windows and Doors -> Windows and Doors -> Windows and Doors,6
+Rgn Bus Mgr,Daily Sales -> Daily Sales -> Tabular -> Daily Sales -> Daily Sales -> Tabular -> Daily Sales -> Daily Sales -> Tabular,6
+Rgn Bus Mgr,Daily Sales -> Daily Sales -> Tabular -> Daily Sales -> Daily Sales -> Tabular -> Daily Sales -> Daily Sales -> Daily Sales,6
+Rgn Bus Mgr,Daily Sales -> Daily Sales -> Tabular -> Daily Sales -> Daily Sales -> Tabular -> Inventory Management -> Inventory Finder -> Search By District,6
+Rgn Bus Mgr,Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Tabular -> Daily Sales -> Daily Sales -> Tabular,4
+Rgn Cont,Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Tabular -> Daily Sales -> Daily Sales -> Daily Sales,19
+Rgn Cont,Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales,18
+Rgn Cont,Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Tabular,15
+Rgn Cont,Development Folder MW - (viewers cannot see) -> 2023 Midwest Inventory Balance -> Sheet 1 -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Tabular,10
+Rgn Cont,Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Tabular -> Development Folder MW - (viewers cannot see) -> 2023 Prior Day Sales Data -> 2023 Prior Day Sales Day,9
+Rgn Mgmt,Branch Operations -> EXP Dashboard -> EXP Order Summary -> Branch Operations -> EXP Dashboard -> EXP Order Detail -> Branch Operations -> EXP Dashboard -> EXP Quarterly,7
+Rgn Mgmt,Branch Operations -> EXP Dashboard -> EXP Quarterly -> Branch Operations -> EXP Dashboard -> EXP Order Detail -> Branch Operations -> EXP Dashboard -> EXP Order Summary,7
+Rgn Mgmt,Branch Operations -> EXP Dashboard -> EXP Order Detail -> Branch Operations -> EXP Dashboard -> EXP Order Summary -> Branch Operations -> EXP Dashboard -> EXP Order Detail,6
+Rgn Mgmt,Fleet eDelivery ODC -> Fleet eDelivery ODC - Enterprise -> eDelivery ODC Summary -> Fleet eDelivery ODC -> Fleet eDelivery ODC - Enterprise -> Order Detail Tabular -> Fleet eDelivery ODC -> Fleet eDelivery ODC - Enterprise -> Branch Compliance Breakdown  ,6
+Rgn Mgmt,Branch Operations -> EXP Dashboard -> EXP Order Summary -> Branch Operations -> EXP Dashboard -> EXP Quarterly -> Branch Operations -> EXP Dashboard -> EXP Order Detail,6
+Rgn VP,Daily Sales -> Daily Sales -> Tabular -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Tabular,73
+Rgn VP,Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Tabular -> Daily Sales -> Daily Sales -> Daily Sales,40
+Rgn VP,Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Tabular -> Daily Sales -> Daily Sales -> Tabular,32
+Rgn VP,Daily Sales -> Daily Sales -> Tabular -> Daily Sales -> Daily Sales -> Tabular -> Daily Sales -> Daily Sales -> Tabular,22
+Rgn VP,Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Tabular -> Daily Sales -> Daily Units -> Daily Units Summary,18
+Sales Development,Salesperson Performance -> Salesperson Current Book of Business -> Salesperson Book of Business -> Salesperson Performance -> Salesperson Current Book of Business -> Salesperson Book of Business -> Salesperson Performance -> Salesperson Current Book of Business -> Salesperson Book of Business,21
+Sales Development,Salesperson Performance -> Salesperson Current Book of Business -> Salesperson Book of Business -> Salesperson Performance -> Salesperson Performance -> Salesperson Performance -> Salesperson Performance -> Salesperson Current Book of Business -> Salesperson Book of Business,9
+Sales Development,Salesperson Performance -> Salesperson Performance -> Salesperson Performance -> Salesperson Performance -> Salesperson Current Book of Business -> Salesperson Book of Business -> Salesperson Performance -> Salesperson Current Book of Business -> Salesperson Book of Business,7
+Sales Development,Salesperson Performance -> Salesperson Current Book of Business -> Salesperson Book of Business -> Salesperson Performance -> Salesperson Current Book of Business -> Salesperson Book of Business -> Salesperson Performance -> Salesperson Performance -> Salesperson Performance,7
+Sales Development,Salesperson Performance -> Salesperson Current Book of Business -> Salesperson Book of Business -> Salesperson Performance -> Salesperson Current Book of Business -> Salesperson Book of Business -> Sales vs Plan -> Sales vs Plan -> Sales vs Plan Dashboard,5
+Sales Operations,Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Tabular -> Daily Sales -> Daily Sales -> Daily Sales,34
+Sales Operations,Daily Sales -> Daily Sales -> Tabular -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Tabular,27
+Sales Operations,Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales,14
+Sales Operations,Salesperson Performance -> Salesperson Current Book of Business -> Salesperson Book of Business -> Salesperson Performance -> Salesperson Current Book of Business -> Salesperson Book of Business -> Salesperson Performance -> Salesperson Current Book of Business -> Salesperson Book of Business,13
+Sales Operations,Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Tabular,10
+Strat Bus Srvc Mgr,District Summary -> District Summary -> District Summary -> District Summary -> District Summary -> District Summary -> Inventory Management -> Inventory Finder Shortage Surplus -> Summary,1
+Strat Bus Srvc Mgr,District Summary -> District Summary -> District Summary -> Inventory Management -> Inventory Finder Shortage Surplus -> Summary -> Inventory Management -> Inventory Finder Shortage Surplus -> Summary,1
+Strat Bus Srvc Mgr,Inventory Management -> Inventory Finder Shortage Surplus -> Summary -> Inventory Management -> Inventory Finder Shortage Surplus -> Summary -> Inventory Management -> Inventory Finder Shortage Surplus -> Search By District,1
+Strat Bus Srvc Mgr,Inventory Management -> Inventory Finder Shortage Surplus -> Summary -> Inventory Management -> Inventory Finder Shortage Surplus -> Search By District -> Daily Sales -> Daily Sales -> Daily Sales,1
+Strat Bus Srvc Mgr,Inventory Management -> Inventory Finder Shortage Surplus -> Search By District -> Daily Sales -> Daily Sales -> Daily Sales -> Inventory Management -> Inventory Finder -> Search By District,1
+T&C BM,Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Tabular -> Daily Sales -> Daily Sales -> Daily Sales,192
+T&C BM,Daily Sales -> Daily Sales -> Tabular -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Tabular,166
+T&C BM,Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Tabular,100
+T&C BM,Daily Sales -> Daily Sales -> Tabular -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales,97
+T&C BM,Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Tabular -> Daily Sales -> Daily Sales -> Tabular,85
+T&C Cont,Daily Sales -> Daily Sales -> Month End Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Month End Sales,2
+T&C Cont,Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Month End Sales -> Daily Sales -> Daily Sales -> Daily Sales,2
+T&C Cont,Daily Sales -> Daily Sales -> Month End Sales -> Daily Sales -> Daily Sales -> Month End Sales -> Branch Operations -> Branch Summary -> Summary Dashboard,1
+T&C Cont,Daily Sales -> Daily Sales -> Month End Sales -> Branch Operations -> Branch Summary -> Summary Dashboard -> Branch Operations -> EXP Dashboard -> EXP Order Summary,1
+T&C Cont,Branch Operations -> Branch Summary -> Summary Dashboard -> Branch Operations -> EXP Dashboard -> EXP Order Summary -> Inventory Management -> Inventory Metrics -> Inventory Performance,1
+T&C Inside Sales,General -> Branch Locations -> Map -> General -> Branch Locations -> Map -> General -> Branch Locations -> Map,3
+T&C Inside Sales,General -> Branch Locations -> Tabular -> General -> Branch Locations -> Tabular -> General -> Branch Locations -> Tabular,2
+T&C Inside Sales,General -> Branch Locations -> Map -> Inventory Management -> Inventory Finder -> Search by Distance -> General -> Branch Locations -> Map,1
+T&C Inside Sales,Inventory Management -> Inventory Finder -> Search by Distance -> General -> Branch Locations -> Map -> General -> Branch Locations -> Map,1
+T&C Inside Sales,General -> Branch Locations -> Map -> General -> Branch Locations -> Map -> General -> Branch Locations -> Tabular,1
+T&C Ops Mgr,Fleet eDelivery ODC -> Fleet eDelivery ODC - Enterprise -> eDelivery ODC Summary -> Fleet eDelivery ODC -> Fleet eDelivery ODC - Enterprise -> Order Detail Tabular -> Fleet eDelivery ODC -> Fleet eDelivery ODC - Enterprise -> eDelivery ODC Summary,4
+T&C Ops Mgr,Fleet eDelivery ODC -> Fleet eDelivery ODC - Enterprise -> Branch Compliance Breakdown   -> Fleet eDelivery ODC -> Fleet eDelivery ODC - Enterprise -> Order Detail Tabular -> Fleet eDelivery ODC -> Fleet eDelivery ODC - Enterprise -> eDelivery ODC Summary,3
+T&C Ops Mgr,Fleet eDelivery ODC -> Fleet eDelivery ODC - Enterprise -> Order Detail Tabular -> Fleet eDelivery ODC -> Fleet eDelivery ODC - Enterprise -> eDelivery ODC Summary -> Fleet eDelivery ODC -> Fleet eDelivery ODC - Enterprise -> Order Detail Tabular,3
+T&C Ops Mgr,Fleet eDelivery ODC -> Fleet eDelivery ODC - Enterprise -> Order Detail Tabular -> Fleet eDelivery ODC -> Fleet eDelivery ODC - Enterprise -> eDelivery ODC Summary -> Fleet eDelivery ODC -> Fleet eDelivery ODC - Enterprise -> Branch Compliance Breakdown  ,3
+T&C Ops Mgr,Fleet eDelivery ODC -> Fleet eDelivery ODC - Enterprise -> eDelivery ODC Summary -> Fleet eDelivery ODC -> Fleet eDelivery ODC - Enterprise -> Branch Compliance Breakdown   -> Fleet eDelivery ODC -> Fleet eDelivery ODC - Enterprise -> Order Detail Tabular,3
+T&C Purch Mgr,Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Tabular,10
+T&C Purch Mgr,Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Month End Sales -> Daily Sales -> Daily Sales -> Tabular,9
+T&C Purch Mgr,Daily Sales -> Daily Sales -> Tabular -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales,9
+T&C Purch Mgr,Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Tabular -> Daily Sales -> Daily Sales -> Daily Sales,8
+T&C Purch Mgr,Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales,7
+T&C RM,Daily Sales -> Daily Sales -> Tabular -> Daily Sales -> Daily Sales -> Tabular -> Daily Sales -> Daily Sales -> Tabular,53
+T&C RM,Daily Sales -> Daily Sales -> Tabular -> Daily Sales -> Daily Sales -> Month End Sales -> Daily Sales -> Daily Sales -> Tabular,32
+T&C RM,Daily Sales -> Daily Sales -> Tabular -> Daily Sales -> Daily Sales -> Tabular -> Daily Sales -> Daily Sales -> Month End Sales,22
+T&C RM,Daily Sales -> Daily Sales -> Month End Sales -> Daily Sales -> Daily Sales -> Tabular -> Daily Sales -> Daily Sales -> Tabular,17
+T&C RM,Daily Sales -> Daily Sales -> Month End Sales -> Daily Sales -> Daily Sales -> Tabular -> Daily Sales -> Daily Sales -> Month End Sales,13
+TCI DM,Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Tabular -> Daily Sales -> Daily Sales -> Daily Sales,4
+TCI DM,Daily Sales -> Daily Sales -> Tabular -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Tabular,3
+TCI DM,Daily Sales -> Daily Sales -> Tabular -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales,2
+TCI DM,Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Tabular -> Daily Sales -> Daily Sales -> Month End Sales,2
+TCI DM,Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Branch Operations -> Branch Summary -> Summary Dashboard,1
+TCI OSSA,Sales vs Plan -> Sales vs Plan -> Sales vs Plan Dashboard -> Salesperson Performance -> Salesperson GP Rank -> Salesperson GP Rank -> Sales vs Plan -> Sales vs Plan -> Sales vs Plan Dashboard,57
+TCI OSSA,Sales vs Plan -> Sales vs Plan -> Sales vs Plan Dashboard -> Sales vs Plan -> Sales vs Plan -> Sales vs Plan Dashboard -> Sales vs Plan -> Sales vs Plan -> Sales vs Plan Dashboard,55
+TCI OSSA,Salesperson Performance -> Salesperson GP Rank -> Salesperson GP Rank -> Sales vs Plan -> Sales vs Plan -> Sales vs Plan Dashboard -> Salesperson Performance -> Salesperson GP Rank -> Salesperson GP Rank,49
+TCI OSSA,Sales vs Plan -> Sales vs Plan -> Sales vs Plan Dashboard -> Salesperson Performance -> Salesperson GP Rank -> Salesperson GP Rank -> Salesperson Performance -> Salesperson GP Rank -> Salesperson GP Rank,45
+TCI OSSA,Sales vs Plan -> Sales vs Plan -> Sales vs Plan Dashboard -> Sales vs Plan -> Sales vs Plan -> Sales vs Plan Dashboard -> Salesperson Performance -> Salesperson GP Rank -> Salesperson GP Rank,42
+Windows and Doors,Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales,53
+Windows and Doors,Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Tabular,21
+Windows and Doors,Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Tabular -> Daily Sales -> Daily Sales -> Daily Sales,20
+Windows and Doors,Daily Sales -> Daily Sales -> Tabular -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Tabular,16
+Windows and Doors,Daily Sales -> Daily Sales -> Tabular -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales -> Daily Sales,16
