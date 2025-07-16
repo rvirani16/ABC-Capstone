@@ -3,6 +3,7 @@ import streamlit as st
 import pandas as pd
 import plotly.graph_objects as go
 from datetime import datetime
+import os
 
 # Set page config
 st.set_page_config(
@@ -50,8 +51,14 @@ st.markdown("""
 @st.cache_data
 def load_data():
     try:
-        df_sent = pd.read_csv('./datasets/notifications_users.csv', parse_dates=['start'])
-        df_viewed = pd.read_csv('./datasets/Combined_views.csv', parse_dates=['View_time'])
+        dir_path_1 = os.path.dirname(os.path.abspath(__file__))
+        file_path_1 = os.path.join(dir_path_1, "..", "datasets", "notifications_users.csv")
+        df_sent = pd.read_csv(file_path_1, parse_dates=['start'])
+
+        dir_path_2 = os.path.dirname(os.path.abspath(__file__))
+        file_path_2 = os.path.join(dir_path_2, "..", "datasets", "Combined_views.csv")
+        df_viewed = pd.read_csv(file_path_2, parse_dates=['View_time'] )
+
         return df_sent, df_viewed
     except Exception as e:
         st.error(f"Error loading data: {e}")
