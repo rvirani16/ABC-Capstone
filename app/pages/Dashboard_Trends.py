@@ -66,7 +66,9 @@ def load_data():
     return df
 
 def load_data_binning():
-    df = pd.read_excel("./datasets/dashboard_usage_summary_by_bin 2.xlsx", sheet_name="Sheet1")
+    dir_path = os.path.dirname(os.path.abspath(__file__))
+    file_path = os.path.join(dir_path, "..", "datasets", "dashboard_usage_summary_by_bin 2.csv")
+    df = pd.read_excel(file_path, sheet_name="Sheet1")
     df['Distinct Users'] = pd.to_numeric(df['Distinct Users'], errors='coerce')
     df.dropna(subset=['Distinct Users'], inplace=True)
     df['Dashboard Name Cleaned'] = df['Dashboard Name'].apply(lambda x: str(x).strip().split("/")[-1])
