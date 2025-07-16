@@ -1,6 +1,7 @@
 import streamlit as st
 import pandas as pd
 import plotly.express as px
+import os
 
 # -------------------- Page Setup --------------------
 st.set_page_config(page_title="Overview Chart", layout="wide")
@@ -30,7 +31,9 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # -------------------- Load Data --------------------
-df = pd.read_csv('./datasets/user_level_with_names.csv')
+dir_path = os.path.dirname(os.path.abspath(__file__))
+file_path = os.path.join(dir_path, "..", "datasets", "user_level_with_names.csv")
+df = pd.read_csv(file_path)
 
 # -------------------- Sidebar Filters --------------------
 st.sidebar.markdown('<div class="filter-title">Filters</div>', unsafe_allow_html=True)
