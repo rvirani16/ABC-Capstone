@@ -3,6 +3,7 @@ import pandas as pd
 from datetime import datetime, timedelta
 import altair as alt
 import plotly.express as px
+import os
 
 # -------------------- Page Config & Styling --------------------
 st.set_page_config(
@@ -54,7 +55,9 @@ pastel_colors = [
 # -------------------- Load Data --------------------
 @st.cache_data
 def load_data():
-    df = pd.read_csv("../datasets/answers_log_cleaned_1.csv")
+    dir_path = os.path.dirname(os.path.abspath(__file__))
+    file_path = os.path.join(dir_path, "..", "datasets", "answers_log_cleaned_1.csv")
+    df = pd.read_csv(file_path)
     df['Start Timestamp'] = pd.to_datetime(df['Start Timestamp'], errors='coerce')
     df['Subject Area Name'] = df['Subject Area Name'].fillna('Unknown')
     df['Parsed Dashboard Name'] = df['Parsed Dashboard Name'].fillna('Unknown')
