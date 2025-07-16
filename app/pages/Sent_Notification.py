@@ -5,6 +5,7 @@ import plotly.express as px
 import plotly.graph_objects as go
 from datetime import datetime
 import numpy as np
+import os
 
 # Set page config
 st.set_page_config(
@@ -159,8 +160,17 @@ with st.sidebar:
     @st.cache_data
     def load_data():
         try:
-            df1 = pd.read_csv('./datasets/hub_notifications_transformed.csv')
-            df2 = pd.read_csv('./datasets/notifications_with_tiles.csv')
+            '''df1 = pd.read_csv('./datasets/hub_notifications_transformed.csv')'''
+            '''df2 = pd.read_csv('./datasets/notifications_with_tiles.csv')'''
+            dir_path_1 = os.path.dirname(os.path.abspath(__file__))
+            file_path_1 = os.path.join(dir_path_1, "..", "datasets", "hub_notifications_transformed.csv")
+            df1 = pd.read_csv(file_path_1)
+
+            dir_path_2 = os.path.dirname(os.path.abspath(__file__))
+            file_path_2 = os.path.join(dir_path_2, "..", "datasets", "notifications_with_tiles.csv")
+            df2 = pd.read_csv(file_path_2)
+
+            
 
             # Convert date columns to datetime
             df1['start'] = pd.to_datetime(df1['start'], errors='coerce')
