@@ -160,8 +160,6 @@ with st.sidebar:
     @st.cache_data
     def load_data():
         try:
-            '''df1 = pd.read_csv('./datasets/hub_notifications_transformed.csv')'''
-            '''df2 = pd.read_csv('./datasets/notifications_with_tiles.csv')'''
             dir_path_1 = os.path.dirname(os.path.abspath(__file__))
             file_path_1 = os.path.join(dir_path_1, "..", "datasets", "hub_notifications_transformed.csv")
             df1 = pd.read_csv(file_path_1)
