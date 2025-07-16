@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 from datetime import datetime
+import os
 
 # -------------------- Page Config & Styling --------------------
 st.set_page_config(
@@ -55,7 +56,9 @@ st.markdown("""
 @st.cache_data
 
 def load_data():
-    df = pd.read_csv("./datasets/error_file_cleaned_1.csv")
+    dir_path = os.path.dirname(os.path.abspath(__file__))
+    file_path = os.path.join(dir_path, "..", "datasets", "error_file_cleaned_1.csv")
+    df = pd.read_csv(file_path)
     if 'Start Timestamp' in df.columns:
         df['Date'] = pd.to_datetime(df['Start Timestamp'])
     elif 'Timestamp' in df.columns:
