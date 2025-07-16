@@ -28,7 +28,10 @@ st.markdown("""
 # -------------------- Load Data --------------------
 @st.cache_data
 def load_data():
-    return pd.read_csv("./datasets/user_level_with_names.csv")
+    dir_path = os.path.dirname(os.path.abspath(__file__))
+    file_path = os.path.join(dir_path, "..", "datasets", "user_level_with_names.csv")
+    df = pd.read_csv(file_path)
+    return df
 
 df = load_data()
 
