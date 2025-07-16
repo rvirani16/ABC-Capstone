@@ -67,7 +67,7 @@ def load_data():
 
 def load_data_binning():
     dir_path = os.path.dirname(os.path.abspath(__file__))
-    file_path = os.path.join(dir_path, "..", "datasets", "dashboard_usage_summary_by_bin 2.csv")
+    file_path = os.path.join(dir_path, "..", "datasets", "dashboard_usage_summary_by_bin 2.xlsx")
     df = pd.read_excel(file_path, sheet_name="Sheet1")
     df['Distinct Users'] = pd.to_numeric(df['Distinct Users'], errors='coerce')
     df.dropna(subset=['Distinct Users'], inplace=True)
