@@ -4,3 +4,5 @@
 # Python 3.9, 3.10, or 3.11 are good choices.
 # SciPy 1.13.1 should have wheels for these.
 python_version = "3.11" # Or "3.10" or "3.9"
+[theme]
+base="light"
