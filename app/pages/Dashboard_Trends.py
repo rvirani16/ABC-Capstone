@@ -54,7 +54,7 @@ pastel_colors = [
 # -------------------- Load Data --------------------
 @st.cache_data
 def load_data():
-    df = pd.read_csv("./datasets/answers_log_cleaned_1.csv")
+    df = pd.read_csv("../datasets/answers_log_cleaned_1.csv")
     df['Start Timestamp'] = pd.to_datetime(df['Start Timestamp'], errors='coerce')
     df['Subject Area Name'] = df['Subject Area Name'].fillna('Unknown')
     df['Parsed Dashboard Name'] = df['Parsed Dashboard Name'].fillna('Unknown')
